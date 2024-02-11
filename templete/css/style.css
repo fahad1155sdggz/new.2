@@ -1,0 +1,100 @@
+/* reset */
+*{
+    margin: 0;
+    padding: 0;
+}
+/* common css */
+body {
+    font-family: "Roboto", sans-serif !important;
+  }
+
+.logo{
+    font-weight: 600;
+    font-size: 36px;
+
+}
+.size{
+    font-size: 17px;
+    font-weight: 500;  
+  }
+.bg-img{
+    background-image: url(../img/cover-img.png);
+    height: 545px;
+    border-radius: 45px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.overlay{
+    background: linear-gradient(90deg, rgba(69,204,231,0.9865079820990896) 34%, rgba(242,233,233,0.4094771697741597) 56%, rgba(96,155,149,0) 59%);     width: 1214px;
+    border-radius: 45px;
+    height: 545px;
+}
+.search-section-margin{
+    padding-top: 60px;
+    padding-left: 35px;
+    
+}
+.slider-text-1{
+font-size: 64px;
+font-weight: 700;
+}
+.slider-text-2{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: -25px;
+}
+.slider-text-3{
+    font-size: 15px;
+}
+.section-text{
+    color: #FB6F06;
+    padding-left: 15px;
+}
+.search-section{
+    margin-top: -55px;
+}
+.search-button{
+    width: 157px;
+    height: 29px; 
+ }
+.pakager-text{
+    font-size: 35px;
+    font-weight: 700;
+}
+.card-div{
+    border-radius: 20px !important;
+
+}
+.card-div img{
+    border-radius: 20px 20px 0 0;
+}
+.card-dollar{
+    color: #FB6F06;
+    font-weight: bold;
+    font-size: 25px;
+}
+.card-title{
+    font-weight: bold;
+    font-size: 25px;
+}
+.offer-inner p{
+font-size: 10px;
+color: #1E1E1E;
+}
+.offer-inner img{
+width: 15px;
+border-radius: 0;
+ }
+
+.overlay-2{
+    height: 405px;
+border-radius: 20px;
+ background: linear-gradient(180deg, rgba(34, 255, 255, 0.5) 20.13%, rgba(34, 255, 255, 0) 100%);
+margin-top: -180px;
+}
+
+
+.ending-text{
+    font-size: 35px;
+    font-weight: 600;
+}
